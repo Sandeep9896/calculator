@@ -59,7 +59,7 @@ button{
 @media only screen and (max-width:700px) {
     #my-calculator{
  width: 80%;
- height: 600px;
+ height: 500px;
  /* background-color: red; */
     }
     .output{
